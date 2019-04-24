@@ -20,16 +20,16 @@ Sys.sleep(10)
 ff_driver$navigate(hr_url)
 Sys.sleep(15)
 
-found <- FALSE
-attempt <- 0
-while (!found && attempt < 3) {
-  attempt <- attempt + 1
-  search <- ff_driver$findElement(using = "css selector", "[name='keyword']")
-  if (length(search) > 0) {
-    search$sendKeysToElement(list("police", key = "enter"))
-    found <- TRUE
-  }
-}
+# found <- FALSE
+# attempt <- 0
+# while (!found && attempt < 3) {
+#   attempt <- attempt + 1
+#   search <- ff_driver$findElement(using = "css selector", "[name='keyword']")
+#   if (length(search) > 0) {
+#     search$sendKeysToElement(list("police", key = "enter"))
+#     found <- TRUE
+#   }
+# }
 
 # close cookies popup that gets in the way of page nav
 ff_driver$findElement(using = "css selector", "#cookie-consent button")$clickElement()
@@ -77,7 +77,7 @@ cop_df <- cop_lis %>%
     tibble(code, title, blurb, href)
   }, .id = "page")
 
-write_csv(cop_df, "cop_job_codes.csv")
+write_csv(cop_df, "job_codes/hr_scraped_job_codes.csv")
 
 ff_driver$close()
 
