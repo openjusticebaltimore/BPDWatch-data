@@ -12,3 +12,4 @@ Annual salary, overtime, and total pay for BPD officers come from the Baltimore 
 | Baltimore_City_Employee_Salaries_FY2016.csv | FY 2016 | [Link](https://data.baltimorecity.gov/City-Government/Baltimore-City-Employee-Salaries-FY2016/65ac-s4v5)
 | Baltimore_City_Employee_Salaries_FY2017.csv | FY 2017 | [Link](https://data.baltimorecity.gov/City-Government/Baltimore-City-Employee-Salaries-FY2017/fh59-3d3c)
 | Baltimore_City_Employee_Salaries_FY2018.csv | FY 2018 | [Link](https://data.baltimorecity.gov/City-Government/Baltimore-City-Employee-Salaries-FY2018/biyh-j8tc)
+| Baltimore_City_Employee_Salaries_FY2019.csv | FY 2019 | [Link](https://data.baltimorecity.gov/City-Government/Baltimore-City-Employee-Salaries-FY2019/6xv6-e66h)
