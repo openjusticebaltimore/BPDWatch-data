@@ -14,5 +14,5 @@ These rosters are public information obtained through Maryland Public Informatio
 
 ### Data
 | File                                      | Date Requested | Dated Fulfulled | Time to Complete | Cost    | MPIA Request |
-| ----------------------------------------- |----------------|-----------------|------------------|---------|:------------:|
+| ----------------------------------------- |----------------|-----------------|:----------------:|:-------:|:------------:|
 | Legal_Police_Report_wo_pw_-_REDACTED.xlsx | May 30, 2020   | August 11, 2021 | 438 days         | $223.44 | [MPIA NR20-429](https://www.muckrock.com/foi/baltimore-county-322/bcopd-active-employees-list-202061-93986) |
