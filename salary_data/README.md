@@ -4,4 +4,4 @@ Annual salary, overtime, and total pay for BPD officers come from the Baltimore 
 ### Data
 | File                                  | Years       | Dataset Link | Date Accessed |
 |:-------------------------------------:|:-----------:|:------------:|:-------------:|
-| Baltimore_City_Employees_Salaries.csv | 2011 - 2020 | [Link](https://data.baltimorecity.gov/City-Government/Baltimore-City-Employee-Salaries-2011/ijfz-2v3c) | August 28, 2020 |
+| Baltimore_City_Employees_Salaries.csv | 2011 - 2021 | [Link](https://data.baltimorecity.gov/datasets/baltimore::baltimore-city-employee-salaries/about) | October 29, 2021 |
