@@ -17,3 +17,11 @@ These rosters are public information obtained through Maryland Public Informatio
 | File                                      | Date Requested | Dated Fulfulled | Time to Complete | Cost    | MPIA Request |
 | ----------------------------------------- |----------------|-----------------|:----------------:|:-------:|:------------:|
 | Legal_Police_Report_wo_pw_-_REDACTED.xlsx | May 30, 2020   | August 11, 2021 | 438 days         | $223.44 | [MPIA NR20-429](https://www.muckrock.com/foi/baltimore-county-322/bcopd-active-employees-list-202061-93986) |
+
+# Prince George's County Police Department Rosters
+These rosters are public information obtained through Maryland Public Information Act requests to the Prince George's County Police Department.
+
+### Data
+| File                         | Date Requested   | Dated Fulfulled   | Time to Complete | MPIA Request |
+| -----------------------------|------------------|-------------------|:----------------:|:------------:|
+| SwornExcelRosterOct2021.xlsx | October 26, 2021 | December 28, 2021 | 63 days          | [MPIA M21-308](https://www.muckrock.com/foi/prince-georges-county-328/pgpd-active-employees-list-20211026-120580) |
