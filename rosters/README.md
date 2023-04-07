@@ -9,6 +9,7 @@ These rosters are public information obtained through Maryland Public Informatio
 | 11-13-19_Employee_Demographics_for_Distribution.xlsx | November 13, 2019 | [MPIA 19-1814](https://www.muckrock.com/foi/baltimore-315/bpd-active-employees-list-78217/) |
 | HRIS_Employee_Demographics_Report_MPIA_20_0954_reviewed.xlsx | August 21, 2020 | [MPIA 20-0954](https://www.muckrock.com/foi/baltimore-315/bpd-active-employees-list-202061-93985/) |
 | HRIS Employee Demographics 12.3.20 reviewed.xlsx<br>Workday Demographics Report 11.18.21 reviewed.xlsx | November 24, 2021 | [MPIA 20-2293](https://www.muckrock.com/foi/baltimore-315/bpd-active-employees-list-2020121-105826/) |
+| Final.xlsx                             | February 8, 2023 | [MPIA 22-1280](https://www.muckrock.com/foi/baltimore-315/bpd-active-employees-list-2022521-129118/) |
 
 # Baltimore County Police Department Rosters
 These rosters are public information obtained through Maryland Public Information Act requests to the Baltimore County Police Department.
